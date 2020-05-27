@@ -1,0 +1,25 @@
+{
+    "manifest_version": 2,
+    "name": "Cookie Replicator",
+    "version": "1.0.0",
+    "description": "一款可以在不同域间复制粘贴Cookie的小插件.",
+    "permissions": [
+        "tabs",
+        "\u003Call_urls\u003E",
+        "cookies",
+        "contextMenus",
+        "unlimitedStorage",
+        "notifications",
+        "storage",
+        "clipboardWrite"
+    ],
+    "browser_action": {
+        "default_popup": "popup.html"
+    },
+    "icons": {
+        "16": "images/icon.png",
+        "48": "images/icon.png",
+        "128": "images/icon.png"
+    },
+    "author": "kuimo"
+}
