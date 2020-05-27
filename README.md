@@ -1,16 +1,10 @@
-# copy-cookie
+# Cookie Replicator
 
-A chrome extension to copy cookies across the domains.
+这是一款可以在不同域间复制粘贴Cookie的Chrome小插件.
 
-Link: [Webstore Url](https://chrome.google.com/webstore/detail/efgblkeenphclkonjikaanjnlconlkfp).
 
-To load the dev version:
 
-1. Go to extension in Chrome
-2. Turn on `Developer mode`
-3. Click `Load Unpacked`
-4. Select the folder
+| Copy                                                         | Paste                                                        | Pasted                                                       |
+| ------------------------------------------------------------ | ------------------------------------------------------------ | ------------------------------------------------------------ |
+| <img src="https://kuimo-markdown-pic.oss-cn-hangzhou.aliyuncs.com/image-20200527163714223.png" alt="image-20200527163714223" /> | ![image-20200527163800372](https://kuimo-markdown-pic.oss-cn-hangzhou.aliyuncs.com/image-20200527163800372.png) | ![image-20200527163834159](https://kuimo-markdown-pic.oss-cn-hangzhou.aliyuncs.com/image-20200527163834159.png) |
 
-| Copy                                                                                     | Paste                                                                                    | Done                                                                                     |
-| ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------- |
-| ![](https://raw.githubusercontent.com/avaneeshtripathi/copy-cookie/snapshots/step-1.png) | ![](https://raw.githubusercontent.com/avaneeshtripathi/copy-cookie/snapshots/step-2.png) | ![](https://raw.githubusercontent.com/avaneeshtripathi/copy-cookie/snapshots/step-3.png) |
